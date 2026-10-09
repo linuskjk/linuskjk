@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linuskjk" alt="linuskjk" /></a> </p>
 
-- 🌱 I’m currently learning **sql 💾🔒**
+- 🌱 I’m currently learning **not to ragequit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/linuskjk](https://github.com/linuskjk)
 
